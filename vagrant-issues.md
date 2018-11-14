@@ -1,3 +1,9 @@
+# VirtualBox and Vagrant installation issues compendium 
+
+## Ubuntu 18.04
+
+The following issues were reported on Ubuntu 18.04
+
 ### VBox kernel module not loaded
 Vbox not working, `"kernel module not loaded"`  
 [StackExchange thread](https://unix.stackexchange.com/questions/361617/virtualbox-is-complaining-that-the-kernel-module-is-not-loaded)  
