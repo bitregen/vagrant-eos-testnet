@@ -5,7 +5,7 @@ This project allows anyone to set up an EOS testnet, on any platform, within an 
 ## Install
 
 ### 1. Download and install Vagrant 
-(Download the Vagrant installer)[https://www.vagrantup.com/downloads.html] for your operating system.
+[Download the Vagrant installer](https://www.vagrantup.com/downloads.html) for your operating system.
 
 ### 2. Clone this git repository 
 ```
@@ -28,4 +28,4 @@ vagrant ssh
 3. Confiugure chef for vim, git, bat, and other accessories
 
 ## Special thanks
-Special thanks goes to the (UserFrosting)[https://www.userfrosting.com/] crew for being awesome and adopting Vagrant. 
+Special thanks goes to the [UserFrosting](https://www.userfrosting.com/) crew for being awesome and adopting Vagrant. 
