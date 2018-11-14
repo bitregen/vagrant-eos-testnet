@@ -7,6 +7,7 @@ This project allows anyone to set up a local EOS testnet development environment
 #### 1. Download and install VirtualBox and Vagrant 
 [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads) for your operating system.  
 [Download the Vagrant installer](https://www.vagrantup.com/downloads.html) for your operating system.
+Some common issues with installing Vagrant are covered [here](vagrant-issues.md).
 
 #### 2. Clone this git repository 
 ```
